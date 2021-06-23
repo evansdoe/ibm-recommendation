@@ -6,8 +6,7 @@ This is a udacity data science nanodegree project. The goal of the project is to
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing and Acknowledgements](#licensing)
+4. [Licensing and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 The Python libraries necessary to execute the codes in the [Jupyter notebook](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/Recommendations_with_IBM.ipynb) are
@@ -24,6 +23,20 @@ In this project I use the [datasets](https://github.com/evansdoe/ibm-waston-reco
 2. User-user based collaborative filtering which recommends articles to users based on their similarities.
 3. Use the machine learning technique, namely, matrix factorisation technique, (Singular Value Decompostion or SVD for short) to make recommendations to users on the [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) platform.
 
+## File Descriptions <a name="files"></a>
+The file structure of the project is as follows:
+
+├── data
+│   ├── articles_community.csv
+│   └── user-item-interactions.csv
+├── LICENSE
+├── README.md
+├── Recommendations_with_IBM.html
+└── Recommendations_with_IBM.ipynb
+
+* The directory — __data__ — contains two _csv_-files. These are all the datasets needed in this project. The datasets were provided by [IBM-Waston](https://www.ibm.com/watson). 
+* There is only one *Juyter notebook* — [**Recommendations_with_IBM.ipynb**](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/Recommendations_with_IBM.ipynb). In this notebook, all question mentioned in the [Project Motivation](#motivation) section are answered. 
+* The file [**Recommendations_with_IBM.html**](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/Recommendations_with_IBM.html) is the HTML version of the Jupyter notebook [**Recommendations_with_IBM.ipynb**](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/Recommendations_with_IBM.ipynb). 
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 Big credit goes to [IBM-Waston](https://www.ibm.com/watson) for providing the dataset and also to the teaching staffs at [Udacity](https://www.udacity.com/). Finally, the repository is distributed under the [GNU General Public License v3.0](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/LICENSE).
