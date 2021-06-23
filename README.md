@@ -35,7 +35,7 @@ The file structure of the project is as follows:
     ├── LICENSE
     └── README.md
 
-* The directory — __data__ — contains two _csv_-files. These are all the datasets needed in this project. The datasets were provided by [IBM-Waston](https://www.ibm.com/watson). 
+* The directory — [**data**](https://github.com/evansdoe/ibm-waston-recommendation/tree/main/data) — contains two _csv_-files. These are all the datasets needed in this project. The datasets were provided by [IBM-Waston](https://www.ibm.com/watson). 
 * There is only one *Juyter notebook* — [**Recommendations_with_IBM.ipynb**](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/Recommendations_with_IBM.ipynb). In this notebook, all questions in the [Project Motivation](#motivation) section are answered. 
 * The file [**Recommendations_with_IBM.html**](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/Recommendations_with_IBM.html) is the HTML version of the Jupyter notebook [**Recommendations_with_IBM.ipynb**](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/Recommendations_with_IBM.ipynb). 
 
