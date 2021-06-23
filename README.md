@@ -1,5 +1,5 @@
 # ibm-waston-recommendation
-In this project, I put the recommendation skills I acquired from the [Udacity Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025) to use on a real data from the [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) platform. The goal of the project is to build a machine learning model that analyses the interactions that users have with articles on the [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) platform, and then make recommendations to both existing users and new users. 
+In this project, I put the recommendation skills I acquired from the [Udacity Data Scientist Nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025) to use on a real data from the [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) platform. The goal of the project is to build a machine learning model or a machine learning recommendation engine that analyses the interactions that users have with articles on the [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) platform, and then make recommendations to both existing users and new users. 
 
 ## Table of Contents
 
