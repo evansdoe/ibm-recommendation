@@ -15,7 +15,7 @@ as follows:
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 * [Plotly](https://plotly.com/python/)
-* [Sklearn](https://sklearn.org/)
+* [Sklearn](https://scikit-learn.org/)
 
 ## Licensing and Acknowledgements<a name="licensing"></a>
 Big credit goes to [IBM-Waston](https://www.ibm.com/watson) for providing the dataset and also to the teaching staffs at [Udacity](https://www.udacity.com/). Finally, the repository is distributed under the [GNU General Public License v3.0](https://github.com/evansdoe/ibm-waston-recommendation/blob/main/LICENSE).
