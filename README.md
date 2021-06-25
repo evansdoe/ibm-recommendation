@@ -27,11 +27,11 @@ In this project I use the [datasets](https://github.com/evansdoe/ibm-waston-reco
 The file structure of the project is as follows:
 
     .
-    ├── data                                    # data warehouse for the project
-    │   ├── articles_community.csv              # A CSV-file containing the data of all articles available to all users.
-    │   ├── user-item-interactions.csv          # A CSV-file containing the data of articles interacted by users.
-    ├── Recommendations_with_IBM.ipynb          # Main Jupyter notebook for the project.
-    ├── Recommendations_with_IBM.html           # HTML version of the main Jupyter notebook
+    ├── data                               # data warehouse for the project
+    │   ├── articles_community.csv         # A CSV-file containing the data of all articles available to all users.
+    │   ├── user-item-interactions.csv     # A CSV-file containing the data of articles interacted by users.
+    ├── Recommendations_with_IBM.ipynb     # Main Jupyter notebook for the project.
+    ├── Recommendations_with_IBM.html      # HTML version of the main Jupyter notebook
     ├── LICENSE
     └── README.md
 
